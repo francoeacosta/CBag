@@ -1,13 +1,65 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="es">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>CookBag</title>
-    <link rel="shortcut icon" href="/Resources/Images/logoProvisorio.ico">
-    
+
+    <meta charset="utf-8">
+    <title>Pagina Principal</title>
+    <meta name="viewport" content="widt=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+
 </head>
+
 <body>
-    
+
+    <header>
+
+        <!-- Aca se agrega un nav para poder crear el menu de navegacion de la pagina -->
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">CookBag</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Nuevos planes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">¿Cómo funciona?</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Mercadito</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+        </nav>
+    </header>
+
+    <section class="jumbotron">
+        <div class="container">
+            <h1>Titulo</h1>
+            <p>subtitulo o texto</p>
+        </div>
+    </section>
+
+    <section class="main container"></section>
+
+    <footer></footer>
+
+    <!-- Bootstrap core JavaScript
+       ================================================== -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
 </body>
-</html>
+
+</html>﻿
