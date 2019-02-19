@@ -2,3 +2,19 @@
     margin-bottom: 0;
 }
 
+.btn_header {
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #c4b41a;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid #c4b41a;
+    margin-right: 5px;
+}
+
+.btn_header:hover {
+    color: #ffffff;
+    background-color: #c4b41a;
+}
