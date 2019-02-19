@@ -100,6 +100,7 @@
     <Content Include="index.html" />
     <Content Include="Resources\Images\favicon.ico" />
     <Content Include="Resources\Images\isotipo.svg" />
+    <Content Include="Resources\Images\isotipo2.svg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
