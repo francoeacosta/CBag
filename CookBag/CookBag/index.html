@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/estilos.css">
     <link rel="shortcut icon" href="/Resources/Images/favicon.ico">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 
 <body>
@@ -17,9 +18,9 @@
 
         <!-- Aca se agrega un nav para poder crear el menu de navegacion de la pagina -->
         <!-- Image and text -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#" >
-                <img src="/Resources/Images/isotipo.svg" width="110" height="40" style="padding:0;"  alt="">
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            <a class="navbar-brand" href="#" style="height:90px; margin-left:60px;">
+                <img src="/Resources/Images/isotipo.svg" width="220" height="80" style="padding:0; margin-top:0px;">
             </a>
 
 
@@ -27,27 +28,39 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
+            <div class="navbar-collapse collapse w-100" id="collapsingNavbar3">
+                <ul class="navbar-nav w-100 justify-content-center">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">NUEVOS PLANES</a>
+                        <a class="nav-link" href="#" style="color:#b4c41a; font-family:Std-Black">INICIO</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">¿CÓMO FUNCIONA?</a>
+                        <a class="nav-link" href="#" style="color:#b4c41a;">PLANES</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">MERCADITO</a>
+                        <a class="nav-link" href="#" style="color:#b4c41a;">¿CÓMO FUNCIONA?</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" style="color:#b4c41a;">MERCADITO</a>
                     </li>
 
                 </ul>
-                <a class="btn_header" href="#">REGISTRARSE</a>
-                <a class="btn_header" href="#">MI CUENTA</a>
+
+                <a href="#"><i class="fas fa-search fa-2x" style="color:#b4c41a; margin-right:1em;"></i></a>
+                <a href="#">
+                    <i class="far fa-user fa-2x" style="color:#b4c41a; margin-right:1em;"></i>
+                </a>
+                <a href="#"><i class="fas fa-shopping-bag fa-2x" style="color:#b4c41a; margin-right:40px;"></i></a>
 
             </div>
         </nav>
     </header>
-    <div class="container-fluid">
-        <img src="/Resources/Images/comida2.jpg" class="img-fluid" alt="Responsive image" style="background-size:cover;" width=":100% \9;">
+    <div class="contenedor">
+        <img src="/Resources/Images/comida2.jpg" class="img-fluid" alt="Responsive image" style="background-size:cover; height:400px; width:100%;">
+        <div class="texto-encima">Texto</div>
+        <div class="centrado">
+            <p style="font-size:6vw;">COCINA FÁCIL</p>
+            <p style="font-size:3vw;">Planificá tu semana y recibí en tu casa los ingredientes para cocinar menús sanos, ricos y equilibrados</p>
+        </div>
     </div>
     <section class="main container"></section>
 

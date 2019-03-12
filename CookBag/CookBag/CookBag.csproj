@@ -89,6 +89,14 @@
     <Content Include="js\bootstrap.bundle.min.js.map" />
     <Content Include="js\bootstrap.js.map" />
     <Content Include="js\bootstrap.min.js.map" />
+    <Content Include="Resources\Fuentes\CircularStd-Black.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-BlackItalic.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-Bold.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-BoldItalic.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-Book.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-BookItalic.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-Medium.otf" />
+    <Content Include="Resources\Fuentes\CircularStd-MediumItalic.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

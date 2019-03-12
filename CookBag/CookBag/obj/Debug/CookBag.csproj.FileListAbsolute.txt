@@ -31,6 +31,4 @@ C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\bin\Microsoft.CodeDom.Pro
 C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\obj\Debug\CookBag.dll
 C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\obj\Debug\CookBag.pdb
-C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\obj\Debug\CookBag.csprojAssemblyReference.cache
-C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\obj\Debug\CookBag.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\obj\Debug\CookBag.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\CBag\CookBag\CookBag\obj\Debug\CookBag.csprojResolveAssemblyReference.cache

@@ -2,6 +2,11 @@
     margin-bottom: 0;
 }
 
+@font-face {
+    font-family: "Std-Black";
+    src: url('/Resources/Fuentes/CircularStd-Black.otf');
+}
+
 .btn_header {
     text-decoration: none;
     padding: 5px;
@@ -17,4 +22,27 @@
 .btn_header:hover {
     color: #ffffff;
     background-color: #c4b41a;
+}
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+
+}
+
+.texto-encima {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+}
+
+.centrado {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
 }
