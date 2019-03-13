@@ -106,8 +106,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="Resources\Images\3.jpg" />
+    <Content Include="Resources\Images\segunda.jpg" />
     <Content Include="Resources\Images\comida.jpg" />
     <Content Include="Resources\Images\comida2.jpg" />
+    <Content Include="Resources\Images\primera.jpg" />
     <Content Include="Resources\Images\favicon.ico" />
     <Content Include="Resources\Images\isotipo.svg" />
     <Content Include="Web.config" />

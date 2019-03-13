@@ -3,8 +3,13 @@
 }
 
 @font-face {
-    font-family: "Std-Black";
-    src: url('/Resources/Fuentes/CircularStd-Black.otf');
+    font-family: "Std-Medium";
+    src: url('/Resources/Fuentes/CircularStd-Medium.otf');
+}
+
+@font-face {
+    font-family: "Std-Bold";
+    src: url('/Resources/Fuentes/CircularStd-Bold.otf');
 }
 
 .btn_header {
