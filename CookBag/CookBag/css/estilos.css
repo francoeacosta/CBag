@@ -38,16 +38,20 @@
 
 }
 
-.texto-encima {
-    position: absolute;
-    top: 50px;
-    left: 10px;
-}
 
-.centrado {
+.centrado1 {
     position: absolute;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #FFFFFF;
+}
+
+.centrado2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+    margin-top:10px;
 }
