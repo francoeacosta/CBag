@@ -107,6 +107,10 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="Resources\Images\3.jpg" />
+    <Content Include="Resources\Images\chino.jpg" />
+    <Content Include="Resources\Images\clasico.jpg" />
+    <Content Include="Resources\Images\familia.jpg" />
+    <Content Include="Resources\Images\fitnes.jpg" />
     <Content Include="Resources\Images\segunda.jpg" />
     <Content Include="Resources\Images\comida.jpg" />
     <Content Include="Resources\Images\comida2.jpg" />
