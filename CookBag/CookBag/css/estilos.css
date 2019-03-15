@@ -12,6 +12,11 @@
     src: url('/Resources/Fuentes/CircularStd-Bold.otf');
 }
 
+@font-face {
+    font-family: "Std-Book";
+    src: url('/Resources/Fuentes/CircularStd-Book.otf');
+}
+
 .btn_header {
     text-decoration: none;
     padding: 5px;
@@ -34,8 +39,7 @@
     display: inline-block;
     text-align: center;
     padding: 0;
-    width: 100%;
-
+    max-width:100%;
 }
 
 
@@ -53,5 +57,12 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: #FFFFFF;
-    margin-top:10px;
+    margin-top: 15px;
+    font-size: 1.7vw;
 }
+
+.imagen-sombra:hover {
+    -webkit-filter: brightness(50%);
+    filter: brightness(50%)
+}
+
