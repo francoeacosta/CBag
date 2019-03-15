@@ -106,7 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
-    <Content Include="Resources\Images\3.jpg" />
+    <Content Include="Resources\Images\bolsas3.jpg" />
     <Content Include="Resources\Images\bolsa.png" />
     <Content Include="Resources\Images\chino.jpg" />
     <Content Include="Resources\Images\clasico.jpg" />
